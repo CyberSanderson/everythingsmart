@@ -1,0 +1,415 @@
+[
+  {
+    "use_case": "Hobby",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Creality Ender 3 V2</h3><p>Price Range: ~$250</p><p>Why? Easy to set up, great quality for beginners, quiet operation. Perfect for hobbyists on a budget.</p><a href='https://www.amazon.com/s?k=Creality+Ender+3+V2' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Hobby",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Monoprice Select Mini V2</h3><p>Price Range: ~$220</p><p>Why? Compact, Wi-Fi enabled, fast setup. Great entry-level printer with remote control.</p><a href='https://www.amazon.com/s?k=Monoprice+Select+Mini+V2' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Hobby",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Prusa Mini+</h3><p>Price Range: ~$350</p><p>Why? High precision, multi-material, great community support. Perfect for intermediate hobbyists.</p><a href='https://www.amazon.com/s?k=Prusa+Mini%2B' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Hobby",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Enclosed chamber", "Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: FlashForge Creator Pro</h3><p>Price Range: ~$900</p><p>Why? Enclosed, quiet, dual extrusion. Ideal for advanced hobbyists needing versatility.</p><a href='https://www.amazon.com/s?k=FlashForge+Creator+Pro' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Hobby",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Multi-material support", "Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Ultimaker S3</h3><p>Price Range: ~$3600</p><p>Why? Large print volume, multi-material, Wi-Fi enabled, fast and reliable for pros.</p><a href='https://www.amazon.com/s?k=Ultimaker+S3' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Small business production",
+    "experience": "Beginner",
+    "budget": "$300–$600",
+    "size": "Medium (150–250mm)",
+    "features": ["Enclosed chamber"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: FlashForge Finder</h3><p>Price Range: ~$400</p><p>Why? Easy to use, enclosed chamber for safety, suitable for beginners in small businesses.</p><a href='https://www.amazon.com/s?k=FlashForge+Finder' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Small business production",
+    "experience": "Intermediate",
+    "budget": "$600–$1200",
+    "size": "Large (>250mm)",
+    "features": ["Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Dremel DigiLab 3D45</h3><p>Price Range: ~$1500</p><p>Why? Large print size, Wi-Fi enabled, reliable and fast for small business production.</p><a href='https://www.amazon.com/s?k=Dremel+DigiLab+3D45' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Small business production",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Raise3D Pro2</h3><p>Price Range: ~$3000</p><p>Why? Industrial-grade performance, large enclosed chamber, Wi-Fi control. Perfect for production runs.</p><a href='https://www.amazon.com/s?k=Raise3D+Pro2' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Small business production",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Formlabs Form 3</h3><p>Price Range: ~$3500</p><p>Why? SLA resin printing, extremely high quality, multi-material options for detailed prototyping.</p><a href='https://www.amazon.com/s?k=Formlabs+Form+3' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Education",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: XYZprinting da Vinci Mini</h3><p>Price Range: ~$250</p><p>Why? User-friendly, quiet, affordable for classroom environments and beginners.</p><a href='https://www.amazon.com/s?k=XYZprinting+da+Vinci+Mini' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Education",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Medium (150–250mm)",
+    "features": ["Enclosed chamber"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: FlashForge Adventurer 4</h3><p>Price Range: ~$500</p><p>Why? Easy to use for students, fully enclosed for safety, reliable quality.</p><a href='https://www.amazon.com/s?k=FlashForge+Adventurer+4' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Education",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Wi-Fi / Remote monitoring"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: MakerBot Replicator+</h3><p>Price Range: ~$1000</p><p>Why? Reliable, networked, great support, ideal for advanced educational projects.</p><a href='https://www.amazon.com/s?k=MakerBot+Replicator%2B' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Education",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Ultimaker S5</h3><p>Price Range: ~$6000</p><p>Why? Large build volume, multi-material, enclosed, perfect for serious educational institutions.</p><a href='https://www.amazon.com/s?k=Ultimaker+S5' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Prototyping",
+    "experience": "Beginner",
+    "budget": "$300–$600",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Anycubic i3 Mega</h3><p>Price Range: ~$350</p><p>Why? Reliable, quiet, great print quality. Ideal for beginner prototyping.</p><a href='https://www.amazon.com/s?k=Anycubic+i3+Mega' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Prototyping",
+    "experience": "Intermediate",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Prusa i3 MK3S+</h3><p>Price Range: ~$750</p><p>Why? High precision, great multi-material support, perfect for advanced prototyping.</p><a href='https://www.amazon.com/s?k=Prusa+i3+MK3S%2B' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Prototyping",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Raise3D Pro2 Plus</h3><p>Price Range: ~$4500</p><p>Why? Large volume, multi-material, enclosed chamber for high-end prototyping.</p><a href='https://www.amazon.com/s?k=Raise3D+Pro2+Plus' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Art",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Elegoo Mars 2 Pro</h3><p>Price Range: ~$250</p><p>Why? Entry-level resin printer with high detail, quiet and compact for art projects.</p><a href='https://www.amazon.com/s?k=Elegoo+Mars+2+Pro' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Art",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Anycubic Photon Mono X</h3><p>Price Range: ~$800</p><p>Why? Excellent resin printer for detailed art models, quiet operation, good value.</p><a href='https://www.amazon.com/s?k=Anycubic+Photon+Mono+X' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Art",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Enclosed chamber", "Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Formlabs Form 3</h3><p>Price Range: ~$3500</p><p>Why? Professional SLA resin printer for artists needing the highest detail and material options.</p><a href='https://www.amazon.com/s?k=Formlabs+Form+3' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "DIY / Maker",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Monoprice MP Select Mini V2</h3><p>Price Range: ~$220</p><p>Why? Affordable, compact, and beginner friendly with good print quality.</p><a href='https://www.amazon.com/s?k=Monoprice+MP+Select+Mini+V2' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "DIY / Maker",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Creality CR-10 V3</h3><p>Price Range: ~$450</p><p>Why? Large print volume, reliable, and multi-material capable, perfect for makers.</p><a href='https://www.amazon.com/s?k=Creality+CR-10+V3' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "DIY / Maker",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Large (>250mm)",
+    "features": ["Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: LulzBot TAZ Workhorse</h3><p>Price Range: ~$2500</p><p>Why? Industrial-grade, large build volume, networked, and reliable for makers needing speed.</p><a href='https://www.amazon.com/s?k=LulzBot+TAZ+Workhorse' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "DIY / Maker",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Multi-material support", "Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Raise3D Pro3 Plus</h3><p>Price Range: ~$6000</p><p>Why? Top-tier features including large build volume, multi-material, enclosure, and Wi-Fi.</p><a href='https://www.amazon.com/s?k=Raise3D+Pro3+Plus' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Functional Parts",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Creality Ender 3 Pro</h3><p>Price Range: ~$250</p><p>Why? Reliable, good quality, and quiet operation suitable for functional part prototypes.</p><a href='https://www.amazon.com/s?k=Creality+Ender+3+Pro' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Functional Parts",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Prusa i3 MK3S+</h3><p>Price Range: ~$750</p><p>Why? Excellent for functional parts with multi-material options and consistent print quality.</p><a href='https://www.amazon.com/s?k=Prusa+i3+MK3S%2B' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Functional Parts",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Wi-Fi / Remote monitoring"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Ultimaker S3</h3><p>Price Range: ~$3600</p><p>Why? Industrial quality, enclosed chamber, Wi-Fi enabled, perfect for complex functional parts.</p><a href='https://www.amazon.com/s?k=Ultimaker+S3' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Functional Parts",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Multi-material support", "Wi-Fi / Remote monitoring"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Markforged Mark Two</h3><p>Price Range: ~$13000</p><p>Why? Carbon fiber printing, multi-material, networked, unmatched strength for functional parts.</p><a href='https://www.amazon.com/s?k=Markforged+Mark+Two' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Medical",
+    "experience": "Intermediate",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Enclosed chamber", "Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Formlabs Form 3B</h3><p>Price Range: ~$4000</p><p>Why? Medical-grade SLA printer with biocompatible materials and precision.</p><a href='https://www.amazon.com/s?k=Formlabs+Form+3B' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Medical",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Wi-Fi / Remote monitoring", "Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: EnvisionTEC Vida HD</h3><p>Price Range: ~$20000</p><p>Why? High precision, large volume, multi-material, top for medical manufacturing.</p><a href='https://www.amazon.com/s?k=EnvisionTEC+Vida+HD' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Engineering",
+    "experience": "Intermediate",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Raise3D E2</h3><p>Price Range: ~$3500</p><p>Why? Dual extrusion, high speed, multi-material support for engineering prototyping.</p><a href='https://www.amazon.com/s?k=Raise3D+E2' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Engineering",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Wi-Fi / Remote monitoring", "Multi-material support"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Stratasys F370</h3><p>Price Range: ~$25000</p><p>Why? Industry standard for engineering-grade parts with multi-material and enclosed printing.</p><a href='https://www.amazon.com/s?k=Stratasys+F370' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Jewelry",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Anycubic Photon Mono</h3><p>Price Range: ~$300</p><p>Why? Affordable resin printer for high detail, quiet, perfect for beginner jewelry makers.</p><a href='https://www.amazon.com/s?k=Anycubic+Photon+Mono' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Jewelry",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Small (<150mm)",
+    "features": ["Enclosed chamber"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Elegoo Mars Pro 2</h3><p>Price Range: ~$350</p><p>Why? Reliable, detailed resin printer, enclosed chamber ensures safety for jewelry printing.</p><a href='https://www.amazon.com/s?k=Elegoo+Mars+Pro+2' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Jewelry",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Small (<150mm)",
+    "features": ["Multi-material support", "Wi-Fi / Remote monitoring"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Formlabs Form 3</h3><p>Price Range: ~$3500</p><p>Why? High-precision SLA, multiple resins, Wi-Fi enabled for professional jewelry applications.</p><a href='https://www.amazon.com/s?k=Formlabs+Form+3' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Food",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: XYZprinting Food Printer</h3><p>Price Range: ~$250</p><p>Why? Simple and safe for edible materials, quiet and beginner-friendly.</p><a href='https://www.amazon.com/s?k=XYZprinting+Food+Printer' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Food",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Medium (150–250mm)",
+    "features": ["Enclosed chamber"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Procusini 3D Food Printer</h3><p>Price Range: ~$450</p><p>Why? Professional quality, enclosed for hygiene, easy to use for edible creations.</p><a href='https://www.amazon.com/s?k=Procusini+3D+Food+Printer' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Food",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support"],
+    "priority": "Faster printing",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Foodini by Natural Machines</h3><p>Price Range: ~$1200</p><p>Why? Multi-ingredient, semi-professional food printer for advanced edible designs.</p><a href='https://www.amazon.com/s?k=Foodini+Natural+Machines' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Food",
+    "experience": "Advanced",
+    "budget": "$1200+",
+    "size": "Large (>250mm)",
+    "features": ["Enclosed chamber", "Wi-Fi / Remote monitoring"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Choc Creator V4X</h3><p>Price Range: ~$15000</p><p>Why? High-end chocolate 3D printing, enclosed, Wi-Fi enabled, perfect for large-scale food production.</p><a href='https://www.amazon.com/s?k=Choc+Creator+V4X' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Cosmetics",
+    "experience": "Beginner",
+    "budget": "<$300",
+    "size": "Small (<150mm)",
+    "features": ["Quiet operation"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: Mini 3D Cosmetic Printer XYZ</h3><p>Price Range: ~$280</p><p>Why? Compact, quiet, beginner-friendly for cosmetic prototype printing.</p><a href='https://www.amazon.com/s?k=Mini+3D+Cosmetic+Printer' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Cosmetics",
+    "experience": "Intermediate",
+    "budget": "$300–$600",
+    "size": "Small (<150mm)",
+    "features": ["Enclosed chamber"],
+    "priority": "Highest print quality",
+    "maintenance": "No",
+    "recommendation": "<h3>✅ Best Pick: XYZprinting Da Vinci Nano</h3><p>Price Range: ~$400</p><p>Why? Enclosed chamber, safe, good detail for cosmetic applicator prototyping.</p><a href='https://www.amazon.com/s?k=XYZprinting+Da+Vinci+Nano' target='_blank'>🛒 View on Amazon</a>"
+  },
+  {
+    "use_case": "Cosmetics",
+    "experience": "Advanced",
+    "budget": "$600–$1200",
+    "size": "Medium (150–250mm)",
+    "features": ["Multi-material support", "Wi-Fi / Remote monitoring"],
+    "priority": "Highest print quality",
+    "maintenance": "Yes",
+    "recommendation": "<h3>✅ Best Pick: Formlabs Form 3</h3><p>Price Range: ~$3500</p><p>Why? High precision, multiple resins for cosmetic molds, Wi-Fi enabled.</p><a href='https://www.amazon.com/s?k=Formlabs+Form+3' target='_blank'>🛒 View on Amazon</a>"
+  }
+]
+
+
+

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D Printer Quiz | Everything Smart</title>
+
+  <meta name="description" content="Take our 3D printer quiz to get your expert, AI-powered recommendation in seconds.">
+  <meta property="og:title" content="3D Printer Quiz | Everything Smart" />
+  <meta property="og:description" content="Take our 3D printer quiz to get your expert, AI-powered recommendation in seconds." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourdomain.com/quiz.html" />
+  <meta property="og:image" content="https://yourdomain.com/assets/images/og-image.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="3D Printer Quiz | Everything Smart" />
+  <meta name="twitter:description" content="Take our 3D printer quiz to get your expert, AI-powered recommendation in seconds." />
+  <meta name="twitter:image" content="https://yourdomain.com/assets/images/og-image.jpg" />
+  <link rel="canonical" href="https://yourdomain.com/quiz.html" />
+
+  <style>
+    .result-box {
+        background: #fff;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        white-space: normal;
+        text-align: left;
+        line-height: 1.5;
+        min-height: 100px; /* so it doesn't collapse when empty */
+        font-size: 1rem;
+        color: #333;
+    }
+    .result-box a {
+        color: #4CAF50;
+        text-decoration: none;
+    }
+        .result-box a:hover {
+        text-decoration: underline;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #f9f9f9;
+    }
+    header, footer {
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+    }
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+    select, input[type="radio"], button {
+      margin-top: 5px;
+      width: 100%;
+      padding: 8px;
+      font-size: 16px;
+    }
+    .section {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    button {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #45a049;
+    }
+    pre#result {
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Everything Smart</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="quiz.html">Take the Quiz</a>
+      <a href="blog.html">Blog</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Find Your Ideal 3D Printer</h2>
+    <form id="quizForm">
+      <div class="section">
+        <label for="use_case">What will you use the 3D printer for?</label>
+        <select id="use_case" name="use_case" required>
+          <option value="">Select...</option>
+          <option>Prototyping</option>
+          <option>Hobby</option>
+          <option>Art</option>
+          <option>Small business production</option>
+          <option>Education</option>
+        </select>
+      </div>
+
+      <div class="section">
+        <label for="experience">What's your experience level?</label>
+        <select id="experience" name="experience" required>
+          <option value="">Select...</option>
+          <option>Beginner</option>
+          <option>Intermediate</option>
+          <option>Advanced</option>
+        </select>
+      </div>
+
+      <div class="section">
+        <label for="budget">What's your budget range?</label>
+        <select id="budget" name="budget" required>
+          <option value="">Select...</option>
+          <option>&lt;$300</option>
+          <option>$300–$600</option>
+          <option>$600–$1200</option>
+          <option>$1200+</option>
+        </select>
+      </div>
+
+      <div class="section">
+        <label for="size">Preferred print size?</label>
+        <select id="size" name="size" required>
+          <option value="">Select...</option>
+          <option>Small (&lt;150mm)</option>
+          <option>Medium (150–250mm)</option>
+          <option>Large (&gt;250mm)</option>
+        </select>
+      </div>
+
+      <div class="section">
+        <label>Which features do you want? (Select all that apply)</label>
+        <label><input type="checkbox" name="features" value="Multi-material support"> Multi-material support</label>
+        <label><input type="checkbox" name="features" value="Enclosed chamber"> Enclosed chamber</label>
+        <label><input type="checkbox" name="features" value="Quiet operation"> Quiet operation</label>
+        <label><input type="checkbox" name="features" value="Wi-Fi / Remote monitoring"> Wi-Fi / Remote monitoring</label>
+      </div>
+
+      <div class="section">
+        <label for="priority">What's more important?</label>
+        <select id="priority" name="priority" required>
+          <option value="">Select...</option>
+          <option>Highest print quality</option>
+          <option>Faster printing</option>
+        </select>
+      </div>
+
+      <div class="section">
+        <label>Are you okay with frequent tinkering?</label>
+        <label><input type="radio" name="maintenance" value="Yes" required> Yes</label>
+        <label><input type="radio" name="maintenance" value="No" required> No</label>
+      </div>
+
+      <button type="submit">Get My Recommendation</button>
+    </form>
+
+    <section class="section">
+      <h2>Your Recommendation</h2>
+      <div id="result" class="result-box"></div>
+
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Everything Smart. All rights reserved.</p>
+  </footer>
+
+  <script src="assets/data/js/script.js"></script>
+</body>
+</html>
