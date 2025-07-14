@@ -1,32 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-      <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CEJ928YJEZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-CEJ928YJEZ');
-    </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CEJ928YJEZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CEJ928YJEZ');
+  </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <a href="/">
-    <img src="/assets/images/logo.jpg" alt="EverythingSmart Pro Logo" width="180" height="auto">
-  </a>
   <title>Find Your Perfect 3D Printer</title>
-
-
+  <meta name="description" content="Find the best 3D printer for your budget and needs. Take our quiz to get personalized recommendations.">
 
   <style>
-    
-    nav a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: white;
-      text-align: center;
-    }
     body {
       margin: 0;
       font-family: Arial, sans-serif;
@@ -39,12 +27,34 @@
       padding: 20px;
       text-align: center;
     }
+    header .logo {
+      max-width: 150px;
+      height: auto;
+      display: block;
+      margin: 0 auto 10px;
+    }
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    nav a {
+      text-decoration: none;
+      color: white;
+      padding: 8px 12px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
     header h1 {
-      margin: 0;
+      margin: 10px 0 5px;
       font-size: 2rem;
     }
     header p {
-      margin-top: 5px;
+      margin: 0;
       font-size: 1.1rem;
     }
     main {
@@ -83,10 +93,34 @@
       margin-top: 40px;
       font-size: 0.9rem;
     }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.5rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+      .cta-button {
+        padding: 10px 20px;
+        font-size: 0.95rem;
+      }
+      main {
+        margin: 10px;
+        padding: 15px;
+      }
+      nav {
+        flex-direction: column;
+        gap: 5px;
+      }
+    }
   </style>
 </head>
 <body>
-  <header> 
+  <header>
+    <a href="/">
+      <img src="/assets/images/logo.jpg" alt="EverythingSmart Pro Logo" class="logo">
+    </a>
     <nav>
       <a href="index.html">Home</a>
       <a href="quiz.html">Take the Quiz</a>
@@ -94,14 +128,10 @@
       <a href="about.html">About</a>
       <a href="contact.html">Contact</a>
     </nav>
-  </header>  
-   
-  
-  <header>
     <h1>Find Your Perfect 3D Printer</h1>
     <p>Answer a few questions. Get a personalized recommendation.</p>
   </header>
-  
+
   <main>
     <h2>Your Expert 3D Printer Guide</h2>
     <p>
@@ -112,9 +142,9 @@
     <section>
       <h3>How It Works</h3>
       <ol>
-        <li>1. Answer a few simple questions about your needs</li>
-        <li>2. Get an expert, AI-powered recommendation</li>
-        <li>3. Buy with confidence using our affiliate partners</li>
+        <li>Answer a few simple questions about your needs.</li>
+        <li>Get an expert, AI-powered recommendation.</li>
+        <li>Buy with confidence using our affiliate partners.</li>
       </ol>
     </section>
 
@@ -128,13 +158,12 @@
     </section>
   </main>
 
-<footer>
-  <p>
-    <a href="privacy.html">Privacy Policy</a> | 
-    <a href="terms.html">Terms & Conditions</a>
-  </p>
-  <p>&copy; 2025 Everything Smart. All rights reserved.</p>
-</footer>
-
+  <footer>
+    <p>
+      <a href="privacy.html">Privacy Policy</a> |
+      <a href="terms.html">Terms & Conditions</a>
+    </p>
+    <p>&copy; 2025 Everything Smart. All rights reserved.</p>
+  </footer>
 </body>
 </html>
