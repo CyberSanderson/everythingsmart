@@ -1,5 +1,8 @@
 User-agent: *
 Disallow: /assets/
-Allow: /
+
+# Optional: If you ever have an admin area
+# Disallow: /admin/
+# Disallow: /login/
 
 Sitemap: https://www.everythingsmart.pro/sitemap.xml
