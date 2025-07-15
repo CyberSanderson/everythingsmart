@@ -65,4 +65,32 @@
     <priority>0.7</priority>
   </url>
 
+  <url>
+    <loc>https://www.everythingsmart.pro/blog/fix-common-3d-printing-problems.html</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.everythingsmart.pro/blog/3d-printer-buying-guide.html</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.everythingsmart.pro/blog/3d-printing-materials-guide.html</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.everythingsmart.pro/blog/best-3d-printing-tools.html</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
