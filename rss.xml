@@ -1,59 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Everything Smart Blog</title>
     <link>https://www.everythingsmart.pro/</link>
     <description>The latest posts on 3D printing, guides, tips, and reviews.</description>
     <language>en-us</language>
-    <pubDate>Thu, 17 Jul 2025 14:00:00 -0400</pubDate>
+    <atom:link href="https://www.everythingsmart.pro/rss.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 17 Jul 2025 14:00:00 -0400</pubDate>
 
     <item>
       <title>Best 3D Printers 2025: Affordable, Mid-Range, and Pro Picks for Every Budget</title>
       <link>https://www.everythingsmart.pro/blog/best-3d-printers-2025.html</link>
       <description>A detailed comparison of the top 3D printers in 2025 for every use case.</description>
-      <pubDate>Sun, 07 Jul 2025 09:00:00 -0400</pubDate>
+      <pubDate>Mon, 07 Jul 2025 09:00:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/best-3d-printers-2025.html</guid>
     </item>
 
     <item>
       <title>How to Choose the Right 3D Printer for You (2025 Expert Guide)</title>
       <link>https://www.everythingsmart.pro/blog/how-to-choose-the-right-3d-printer-for-you.html</link>
       <description>A complete expert guide to selecting the best 3D printer for your needs.</description>
-      <pubDate>Mon, 08 Jul 2025 10:00:00 -0400</pubDate>
+      <pubDate>Tue, 08 Jul 2025 10:00:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/how-to-choose-the-right-3d-printer-for-you.html</guid>
     </item>
 
     <item>
       <title>Top Accessories Every 3D Printer Owner Needs</title>
       <link>https://www.everythingsmart.pro/blog/top-accessories-every-3d-printer-owner-needs.html</link>
       <description>Essential accessories to improve your 3D printing experience.</description>
-      <pubDate>Tue, 09 Jul 2025 08:30:00 -0400</pubDate>
+      <pubDate>Wed, 09 Jul 2025 08:30:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/top-accessories-every-3d-printer-owner-needs.html</guid>
     </item>
 
     <item>
       <title>3D Printing Common Problems and Fixes</title>
       <link>https://www.everythingsmart.pro/blog/3d-printing-common-problems-and-fixes.html</link>
       <description>Troubleshooting the most common 3D printing issues.</description>
-      <pubDate>Wed, 10 Jul 2025 11:15:00 -0400</pubDate>
+      <pubDate>Thu, 10 Jul 2025 11:15:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/3d-printing-common-problems-and-fixes.html</guid>
     </item>
 
     <item>
       <title>3D Printer Buying Guide</title>
       <link>https://www.everythingsmart.pro/blog/3d-printer-buying-guide.html</link>
       <description>An in-depth buying guide to help you find the right 3D printer.</description>
-      <pubDate>Thu, 11 Jul 2025 13:45:00 -0400</pubDate>
+      <pubDate>Fri, 11 Jul 2025 13:45:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/3d-printer-buying-guide.html</guid>
     </item>
 
     <item>
       <title>3D Printing Materials Guide</title>
       <link>https://www.everythingsmart.pro/blog/3d-printing-materials-guide.html</link>
       <description>Learn about the different materials used in 3D printing and their best use cases.</description>
-      <pubDate>Fri, 12 Jul 2025 12:30:00 -0400</pubDate>
+      <pubDate>Sat, 12 Jul 2025 12:30:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/3d-printing-materials-guide.html</guid>
     </item>
 
     <item>
       <title>Best 3D Printing Tools</title>
       <link>https://www.everythingsmart.pro/blog/best-3d-printing-tools.html</link>
       <description>Top tools to get more out of your 3D printing setup.</description>
-      <pubDate>Sat, 13 Jul 2025 15:00:00 -0400</pubDate>
+      <pubDate>Sun, 13 Jul 2025 15:00:00 -0400</pubDate>
+      <guid>https://www.everythingsmart.pro/blog/best-3d-printing-tools.html</guid>
     </item>
 
   </channel>
